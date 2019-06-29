@@ -5,3 +5,4 @@
 <br />Step 2: Open https://colab.research.google.com.
 <br />Step 3: Click on <b>File</b> -> <b>Open Notebook</b> and Choose <b>Github</b>
 <br />Step 4: Download the <b>Donkey_Car_Training_using_Google_Colab.ipynb</b>
+<br />Step 5: Execute each cell in the notebook one by one and train the model
